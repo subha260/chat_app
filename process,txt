@@ -1,0 +1,4 @@
+steps
+=> create a folder
+=>npm init
+=>npm i dotenv express mongoose cors socket.io bcryptjs
